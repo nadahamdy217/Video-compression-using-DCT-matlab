@@ -12,4 +12,7 @@ I use the DCT algorithm in Matlab and apply the technique to a 5-second video.
 7. get important coeff for dct to apply them on the frames.<br>
 8. recover the pixels using the inverse 2D DCT.<br>
 9. Normalize the compressed frame to the range 0-1.<br>
-10. write the new file.<br>
+10. write the new file.<be>
+
+<h3>NOTE</h3>
+You will need to change the path of the file in the code if you want to run it =D
